@@ -19,3 +19,4 @@ try:
 except KeyboardInterrupt:
     RPC.clear()
     print("Rich Presence stopped.")
+
