@@ -10,4 +10,6 @@ In discord.dev, put the icon of your simulated App in "App icon"
 Then in: large_image=""
 put the same file name of your icon.
 
-And that's it, you can run it with a .bat, to keep it open.
+You can add details in: details=""
+
+And that's it, you can run it with a .bat file, to keep it open.
