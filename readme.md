@@ -14,4 +14,4 @@ You can add details in: details=""
 
 And that's it, you can run it with a .bat file, to keep it open.
 
-<img height="500" alt="paint" width="400" src="screenshot.png"/> 
+<img height="500" alt="paint" width="400" src="preview.png"/> 
