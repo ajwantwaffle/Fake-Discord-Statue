@@ -1,8 +1,8 @@
 import time
 from pypresence import Presence
 
-client_id = '1391933469571153971'
-RPC = Presence(client_id)
+app_id = '1391933469571153971'
+RPC = Presence(app_id)
 RPC.connect()
 
 start_time = time.time() - (1)
@@ -19,4 +19,5 @@ try:
 except KeyboardInterrupt:
     RPC.clear()
     print("Rich Presence stopped.")
+
 
